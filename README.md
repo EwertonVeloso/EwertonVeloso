@@ -1,6 +1,8 @@
 # 👨‍💻 Ewerton Veloso
 ---
 
+Me chamo Ewerton Veloso, sou desenvolvedor de software atualmente graduando em análise e desenvolvimento de sistemas pelo IFPB Campus Cajazeiras.
+
 **`Desenvolvedor`**
 
 ---
