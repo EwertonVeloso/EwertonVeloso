@@ -93,7 +93,7 @@ Desenvolvedor de software e entusiasta da técnologia, atualmente graduando em a
     title="Express" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg"
 />
 
 <img 
