@@ -5,8 +5,6 @@ Desenvolvedor de software e entusiasta da técnologia, atualmente graduando em a
 
 ---
 
-### 🤖 Linguagens e Tecnologias
-
 <img 
     align="left" 
     alt="Java"
@@ -125,8 +123,6 @@ Desenvolvedor de software e entusiasta da técnologia, atualmente graduando em a
 
 <br/>
 <br/>
-
-### 📊 Estatísticas
 
 <p>
 <img 
