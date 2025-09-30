@@ -122,15 +122,6 @@ Desenvolvedor de software e entusiasta da técnologia, atualmente graduando em a
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" 
 />
 
-<img 
-    align="left" 
-    alt="Postman"
-    title="Postman" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" 
-/>
-
 
 <br/>
 <br/>
