@@ -117,15 +117,3 @@ Desenvolvedor de software e entusiasta da técnologia, atualmente graduando em a
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" 
 />
 
-
-<br/>
-<br/>
-
-<p>
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=EwertonVeloso&theme=tokyonight&layout=compact" 
-  />
-</p>
