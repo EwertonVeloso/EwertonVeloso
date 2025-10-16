@@ -1,6 +1,3 @@
-# 👨‍💻 Ewerton Veloso
----
-
 Desenvolvedor de software e entusiasta da técnologia, atualmente graduando em análise e desenvolvimento de sistemas pelo IFPB Campus Cajazeiras.
 
 ---
