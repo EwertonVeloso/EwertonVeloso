@@ -2,6 +2,8 @@ Desenvolvedor, graduando em Análise e Desenvolvimento de Sistemas pelo IFPB.
 
 ---
 
+Principais Ferramentas:
+
 <img 
     align="left" 
     alt="HTML"
