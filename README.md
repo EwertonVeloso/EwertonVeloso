@@ -1,4 +1,4 @@
-Desenvolvedor, graduando em Análise e Desenvolvimento de sistemas pelo IFPB.
+Desenvolvedor, graduando em Análise e Desenvolvimento de Sistemas pelo IFPB.
 
 ---
 
