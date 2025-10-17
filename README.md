@@ -1,4 +1,4 @@
-Desenvolvedor de software e entusiasta da técnologia, atualmente graduando em análise e desenvolvimento de sistemas pelo IFPB Campus Cajazeiras.
+Desenvolvedor, graduando em Análise e Desenvolvimento de sistemas pelo IFPB.
 
 ---
 
