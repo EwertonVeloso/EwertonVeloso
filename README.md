@@ -1,8 +1,11 @@
-Desenvolvedor, graduando em Análise e Desenvolvimento de Sistemas pelo IFPB.
+Hello, I'm a Brazilian Software Developer
+Currently graduating in System Analysis and Development at the Federal Institute of Paraíba - Cajazeiras 
+
+How to reach me: velosoewerton@gmail.com
 
 ---
 
-Principais Ferramentas:
+tools:
 
 <img 
     align="left" 
