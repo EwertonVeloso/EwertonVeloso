@@ -30,7 +30,7 @@ tools:
     title="Node JS" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://www.svgrepo.com/show/448266/aws.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
 />
 
 <img 
@@ -39,7 +39,7 @@ tools:
     title="AWS"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aws/aws-original.svg" 
+    src="https://www.svgrepo.com/show/448266/aws.svg" 
 />
 
 <img 
