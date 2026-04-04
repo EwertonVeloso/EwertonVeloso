@@ -1,6 +1,6 @@
 * Hello, I'm a Brazilian Software Developer
 * Currently graduating in Systems Analysis and Development at the Federal Institute of Paraíba - Cajazeiras 
-* How to reach me: velosoewerton@gmail.com
+  
 
 ---
 
