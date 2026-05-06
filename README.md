@@ -60,6 +60,17 @@ tools:
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
 />
 
+
+<img 
+    align="left" 
+    alt="React"
+    title="React" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://www.svgrepo.com/show/452092/react.svg" 
+/>
+
+
 <img 
     align="left" 
     alt="Docker"
